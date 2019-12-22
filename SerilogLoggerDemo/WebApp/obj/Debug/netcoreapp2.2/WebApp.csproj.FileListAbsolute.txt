@@ -5,7 +5,6 @@ C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\bin\Debug\netcoreapp2.2\WebApp
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\bin\Debug\netcoreapp2.2\WebApp.pdb
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.dll
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.pdb
-C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CoreCompileInputs.cache
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cache
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cs
@@ -28,3 +27,5 @@ C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.dll
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.pdb
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CopyComplete
+C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\bin\Debug\netcoreapp2.2\appsettings.json
+C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
