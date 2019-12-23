@@ -28,4 +28,3 @@ C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.pdb
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CopyComplete
 C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\bin\Debug\netcoreapp2.2\appsettings.json
-C:\dev\SerilogLoggerDemo\SerilogLoggerDemo\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
